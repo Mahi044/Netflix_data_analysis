@@ -19,25 +19,6 @@ The project demonstrates **data analysis, visualization, and storytelling skills
 
 ---
 
-## 🗂 Dataset
-
-* **Source:** [Netflix Dataset (Kaggle)](https://www.kaggle.com/shivamb/netflix-shows)
-* **Contents:**
-
-  * `show_id` → Unique ID
-  * `type` → Movie / TV Show
-  * `title` → Title of the content
-  * `director` → Director name(s)
-  * `cast` → Cast members
-  * `country` → Country of production
-  * `date_added` → Date added to Netflix
-  * `release_year` → Year of release
-  * `rating` → Content rating (e.g., PG, R, TV-MA)
-  * `duration` → Duration (in minutes / seasons)
-  * `listed_in` → Genre/category
-  * `description` → Short description
-
----
 
 ## 🛠️ Tools & Technologies
 
@@ -111,11 +92,6 @@ Contributions are welcome! Feel free to fork this repo, raise issues, or submit 
 
 👤 **Mahendra Reddy**
 
-* GitHub: [your-username](https://github.com/your-username)
-* LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-link)
-
+* LinkedIn:https://www.linkedin.com/in/mahendra-reddy-rv-058408243/
 ---
 
-👉 This README will make your project look **professional & interview-ready**.
-
-Do you also want me to **add a “Results & Visualizations” section with sample charts** (so it looks richer on GitHub)?
