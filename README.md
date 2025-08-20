@@ -1,8 +1,3 @@
-Perfect 👌 Since you’ve finished the **Netflix Data Analysis** project, let’s make a strong **README.md** for your GitHub repo.
-Here’s a structured draft you can use (you can copy-paste directly and edit project details as needed):
-
----
-
 # 🎬 Netflix Data Analysis
 
 ## 📌 Project Overview
